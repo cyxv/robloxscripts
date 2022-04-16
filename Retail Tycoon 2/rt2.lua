@@ -1,6 +1,6 @@
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wally2", true))()
 
--- Car Mods (THIS IS A GIANT FUCKING MESS I KNOW)
+-- Car Mods (THIS IS A GIANT FUCKING MESS I KNOW, i tried making it less lines but nothing worked so enjoy this gigantic mess)
 local carmodswindow = lib:CreateWindow("Car Mods")
 
 local maincarmods = carmodswindow:Section("Main Mods")
